@@ -12,7 +12,7 @@
     "url": "git+ssh://git@github.com/THEMISADAS2007/Sadas-New-Baileys.git"
   },
   "license": "MIT",
-  "author": "Adhiraj Singh",
+  "author": "dcm",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
