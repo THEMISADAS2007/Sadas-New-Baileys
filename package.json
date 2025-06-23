@@ -1,15 +1,15 @@
 {
-  "name": "baileys-mod",
-  "version": "6.8.5",
+  "name": "dcm-baileys-pro",
+  "version": "0.0.1",
   "description": "Custom Baileys WhatsApp API",
   "keywords": [
     "baileys", "baileys-mod", "wabot", "whatsapp",
     "js-whatsapp", "whatsapp-api", "whatsapp-web", "whatsapp-bot",
     "automation", "multi-device"
   ],
-  "homepage": "https://github.com/nstar-y/bail",
+  "homepage": "https://github.com/THEMISADAS2007/Sadas-New-Baileys",
   "repository": {
-    "url": "git+ssh://git@github.com/nstar-y/bail.git"
+    "url": "git+ssh://git@github.com/THEMISADAS2007/Sadas-New-Baileys.git"
   },
   "license": "MIT",
   "author": "Adhiraj Singh",
